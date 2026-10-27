@@ -36,7 +36,7 @@ Open `index.html` in a browser — the whole game is a single HTML file (HTML, C
 
 ![World map](nasl-map-handmade.png)
 
-![Gameplay](screenshot-gameplay.png)
+![Nasl Althilal — the hero, the characters and the world](game-board.png)
 
 ## Status
 
