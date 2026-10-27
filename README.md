@@ -1,6 +1,6 @@
 ![Nasl Althilal — key art](nasl-keyart-handmade.png)
 
-# Nasl Althilal — نصل الظلال (Blade of Shadows)
+# Nasl Althilal — Blade of Shadows
 
 A 2D action-adventure platformer that runs in the browser, with a fully Arabic interface.
 
