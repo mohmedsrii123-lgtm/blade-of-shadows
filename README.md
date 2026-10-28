@@ -60,6 +60,26 @@ the Ash Lord at both scales, and `blade-integrated-cave.png`,
 captures of the integrated result. The same folder holds the design
 sheets and the key art.
 
+Most enemies are drawn 40% larger, and the Crawler and the Bat 70% larger.
+
+### Echo Cave
+
+| Current scale | Presence x1.4 |
+| --- | --- |
+| ![Echo Cave at current scale](media/echo-cave-current.jpg) | ![Echo Cave with Presence x1.4](media/echo-cave-presence.jpg) |
+
+### Crystal Vault
+
+| Current scale | Presence x1.4 |
+| --- | --- |
+| ![Crystal Vault at current scale](media/crystal-vault-current.jpg) | ![Crystal Vault with Presence x1.4](media/crystal-vault-presence.jpg) |
+
+### Ash Castle
+
+| Current scale | Presence x1.4 |
+| --- | --- |
+| ![Ash Castle at current scale](media/ash-castle-current.jpg) | ![Ash Castle with Presence x1.4](media/ash-castle-presence.jpg) |
+
 ## Controls
 
 | Action              | Keys          |
